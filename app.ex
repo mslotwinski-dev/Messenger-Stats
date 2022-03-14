@@ -1,2 +1,0 @@
-defmodule MessengerStats do
-end
