@@ -3,6 +3,6 @@ defmodule MessengerStatsTest do
   doctest MessengerStats
 
   test "greets the world" do
-    assert MessengerStats.hello() == :world
+    assert MessengerStats.hello() == :ok
   end
 end

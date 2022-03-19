@@ -1,0 +1,1 @@
+FROM bitwalker/alpine-erlang:latest
